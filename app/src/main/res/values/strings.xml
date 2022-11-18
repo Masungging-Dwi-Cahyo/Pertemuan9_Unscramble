@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="instructions">Susun huruf diatas menjadi nama Buah.</string>
+    <string name="skip">Lewati</string>
+    <string name="submit">Kirim</string>
+    <string name="score">Nilai : %d</string>
+    <string name="word_count">Buah ke %d dari %d buah</string>
+    <string name="enter_your_word">Masukkan disini</string>
+    <string name="congratulations">Selamat !</string>
+    <string name="you_scored">"Nilai anda : %d"</string>
+    <string name="exit">Keluar</string>
+    <string name="play_again">Main Lagi</string>
+    <string name="try_again">Coba lagi !</string>
+</resources>
